@@ -9,7 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MinaMehdipoor&label=Profile+views&color=a855f7&style=flat-square)
 ![Role](https://img.shields.io/badge/Front--End-Developer-ec4899?style=flat-square)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-8b5cf6?style=flat-square)
 ![Status](https://img.shields.io/badge/MSc-Software%20Engineering-6366f1?style=flat-square)
