@@ -62,7 +62,7 @@ I'm a front-end developer who designs before she codes. I enjoy turning ideas in
 
 🌱 Junior level, still growing. I know the basics of everything below, I've used it in real or academic projects, and I'm genuinely excited to go deeper.
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql,elasticsearch,linux,git,github&perline=8" alt="other skills" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,mysql,linux,git,github&perline=8" alt="other skills" /> </div>
 
 <br/>
 
