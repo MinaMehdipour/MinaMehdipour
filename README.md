@@ -89,8 +89,7 @@ I'm a front-end developer who designs before she codes. I enjoy turning ideas in
 
 <div align="center">
 
-<!-- Replace the links below -->
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mina-mehdipour-541707254)](https://github.com/MinaMehdipour/www.linkedin.com/in/mina-mehdipour-541707254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-mehdipour-541707254/)
 [![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minamehdipoor80@gmail.com)
 
 <br/>
